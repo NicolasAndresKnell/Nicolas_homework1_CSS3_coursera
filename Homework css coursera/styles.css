@@ -1,0 +1,36 @@
+
+body {
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  font-size: 48px;
+}
+
+header {
+  background-color: #fad4c0;
+}
+
+nav {
+  background-color: #fee9e1;
+}
+
+main {
+  background-color: #64b6ac;
+  font-size: 24px;
+}
+
+footer {
+  background-color: #C0FDFB;
+}
+li {
+  display: block;
+  width: 200px;
+}
+
+h1 {
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+  color: #333;
+}
+
+p {
+  line-height: 1.8;
+}
